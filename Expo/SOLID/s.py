@@ -13,7 +13,7 @@ class Reporte:
         print("Guardando reporte en PDF...")
 
 # Codigo Arreglado
-class Reporte:
+'''class Reporte:
     def __init__(self, datos):
         self.datos = datos
 
@@ -22,7 +22,7 @@ class Reporte:
 
 class GuardarArchivo:
     def guardar_pdf(self, reporte):
-        print(f"Guardando '{reporte}' en PDF...")
+        print(f"Guardando '{reporte}' en PDF...")'''
 
 
 
